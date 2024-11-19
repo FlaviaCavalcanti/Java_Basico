@@ -7,7 +7,7 @@ public class exercicioTres {
 		
 		Scanner sc = new Scanner(System.in);
 		int num1, num2, soma;
-		System.out.println("BORA TOMAR UMA?: ");
+		System.out.println("Digite um número inteiro: ");
 		num1 = sc.nextInt();
 		System.out.println("Digite um número inteiro: ");
 		num2= sc.nextInt();
